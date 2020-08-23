@@ -4,8 +4,6 @@
 
 ## :floppy_disk: Workshop Slides [here](http://bit.ly/db-ppt)
 
-<br>
-
 ## Speakers
 
 - **Vishwas Ganatra** - [vishwasganatra][link:git_vishwas]
