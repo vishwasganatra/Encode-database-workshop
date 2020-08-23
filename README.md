@@ -6,7 +6,7 @@
 
 <br>
 
-## Speakers:
+## Speakers
 
 - **Vishwas Ganatra** - [vishwasganatra][link:git_vishwas]
 - **Bhuvan Gandhi** - [bmg02][link:git_bhuvan]
